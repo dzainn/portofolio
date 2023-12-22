@@ -4,7 +4,8 @@
   "description": "portofolio",
   "main": "script.js",
   "scripts": {
-    "dev": "tailwindcss -i src/input.css -o dist/output.css --watch"
+    "dev": "tailwindcss -i src/input.css -o dist/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
